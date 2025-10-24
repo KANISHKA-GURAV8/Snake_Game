@@ -38,6 +38,5 @@ No external dependencies required — works out of the box with Python 3.
 2. Clone the repository or download the project files.
 3. Run the main script:
 
-   ```bash
-   python main.py
+   
 
