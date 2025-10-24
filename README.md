@@ -37,7 +37,9 @@ No external dependencies required — works out of the box with Python 3.
 1. Make sure you have Python installed (3.8 or higher).
 2. Clone the repository or download the project files.
 3. Run the main script:
-    --bash
-   main.py
+
+## 🏁 How to Run
+```bash
+main.py
    
 
